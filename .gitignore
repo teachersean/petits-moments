@@ -1,0 +1,7 @@
+.openai/
+.env*
+node_modules/
+.DS_Store
+*.zip
+*backup*
+*export*
